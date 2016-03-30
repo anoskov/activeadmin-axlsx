@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 gem 'axlsx'
 gem 'activeadmin', github: 'gregbell/active_admin'
-gem 'rake'
+
 gemspec
 
 group :development, :test do
